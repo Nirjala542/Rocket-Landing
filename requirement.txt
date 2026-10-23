@@ -1,0 +1,4 @@
+numpy
+gymnasium[box2d]
+Stable-Baselines3
+Raylib
